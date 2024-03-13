@@ -1,5 +1,5 @@
 public class Operation {
-    //Task-1-Date-02-27-2024-Day-29.docx
+    //Task-1-Date-02-27-2024-Day-28.docx
     //Task 1: Write a Java program to perform subtraction 
     // and division operations by using static and non-static methods.
       
@@ -8,7 +8,7 @@ public class Operation {
         byte b = 3;
         
            //Printintg the Details
-           System.out.println("Task-1-Date-02-27-2024-Day-29.docx");
+           System.out.println("Task-1-Date-02-27-2024-Day-28.docx");
            System.out.println("Task 1: Write a Java program to perform subtraction and division operations by using static and non-static methods. ");
          
         //Subtraction 

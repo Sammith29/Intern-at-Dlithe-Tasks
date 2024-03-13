@@ -1,6 +1,6 @@
 import java.util.Scanner;
  /*
-  Task-2-Date-02-27-2024-Day-29.docx
+  Task-2-Date-02-27-2024-Day-28.docx
   Task 2: Write a Java program to read two inputs a and b from the user
   and find a^b if b^a. else find b a without using if-else control statement, 
   and conditional conditional operator.
@@ -10,7 +10,7 @@ public class Exponantion {
         Scanner scanner = new Scanner(System.in);
         
         //Printintg the Details
-         System.out.println("Task-3-Date-02-27-2024-Day-29.docx");
+         System.out.println("Task-3-Date-02-27-2024-Day-28.docx");
          System.out.println("Task 2: Write a Java program to read two inputs a and b from the user and find a^b if b^a. else find b a without using if-else control statement,  and conditional conditional operator.");
         
          //Takes the input from the user
