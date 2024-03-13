@@ -6,7 +6,7 @@ number is even or odd. If the given number is even number then return true else 
 using if-else control statement.
  */
 public class EvenOrOdd {
-
+    
     // To Print the Error message and returns a boolean value
     public static boolean negative() {
         System.out.println("The enterd number is Nagative please enter the positvie number Try Again");
@@ -31,7 +31,11 @@ public class EvenOrOdd {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+         
+        //Printintg the Task Details 
+        System.out.println("Task-3-Date-02-27-2024-Day-29.docx");
+        System.out.println("Task 3: Write a Java program to read a positive integer number from the user and check if the given number is even or odd. If the given number is even number then return true else return false without using if-else control statement.");
+        
         // Takes the input from the user4545
         System.out.print("Enter the Positive Number a: ");
         int a = scanner.nextInt();
@@ -40,6 +44,7 @@ public class EvenOrOdd {
         boolean s = a <= 0 ? EvenOrOdd.negative() : EvenOrOdd.conclude();
         boolean g = s = true ? EvenOrOdd.isEven(a) :  EvenOrOdd.programError(a);
         System.out.println(g);
+        scanner.close();
     }
 
 }

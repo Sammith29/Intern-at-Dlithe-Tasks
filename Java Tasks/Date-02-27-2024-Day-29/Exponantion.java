@@ -8,9 +8,12 @@ import java.util.Scanner;
 public class Exponantion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-       
-
-        //Takes the input from the user
+        
+        //Printintg the Details
+         System.out.println("Task-3-Date-02-27-2024-Day-29.docx");
+         System.out.println("Task 2: Write a Java program to read two inputs a and b from the user and find a^b if b^a. else find b a without using if-else control statement,  and conditional conditional operator.");
+        
+         //Takes the input from the user
         System.out.print("Enter the first number a: ");
         int a = scanner.nextInt();
 
@@ -21,6 +24,7 @@ public class Exponantion {
         int result = Math.abs(a) < Math.abs(b) ? power(a, b) : power(b, a);
 
         System.out.println("The Exponantial : " + result);
+        scanner.close();
     }
 
     static int power(int base, int exponent) {
@@ -31,4 +35,5 @@ public class Exponantion {
         double result =  Math.pow(base, exponent);
         return (int) result;
     }
+
 }
