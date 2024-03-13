@@ -1,5 +1,10 @@
 import java.util.Scanner;
-
+/*
+ Task-3-Date-02-27-2024-Day-29.docx
+Task 3: Write a Java program to read a positive integer number from the user and check if the given
+number is even or odd. If the given number is even number then return true else return false without
+using if-else control statement.
+ */
 public class EvenOrOdd {
 
     // To Print the Error message and returns a boolean value

@@ -1,5 +1,8 @@
 import java.util.Random;
-
+/*
+ Task-4-Date-02-27-2024-Day-29.docx
+Task 4: Write a Java program to return a positive 6-digit random integer number.
+ */
 public class Randoninteger {
      public static void main(String[] args) {
 
