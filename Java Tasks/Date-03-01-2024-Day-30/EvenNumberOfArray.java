@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
- //Task-1-Date-02-29-2024-Day-29.docx
+ //Task-1-Date-03-01-2024-Day-30
     //Task 1: Write a Java program to print even numbers from the array.
 
 public class EvenNumberOfArray {
   public static void main(String[] args) {
     //Printintg the Details
-System.out.println("Task-1-Date-02-29-2024-Day-29.docx");
+System.out.println("Task-1-Date-03-01-2024-Day-30");
 System.out.println("Task 1: Write a Java program to print even numbers from the array.");
 
     

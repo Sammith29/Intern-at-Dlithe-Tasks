@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
- //Task-3-Date-02-29-2024-Day-29.docx
+ //Task-3-Date-03-01-2024-Day-30
  //Task 3: Write a Java program to sort the array elements.
 
 
@@ -9,7 +9,7 @@ public class SortheArrayElement {
    public static void main(String[] args){
      
  //Printintg the Details
- System.out.println("Task-3-Date-02-29-2024-Day-29.docx");
+ System.out.println("Task-3-Date-03-01-2024-Day-30");
  System.out.println("Task 3: Write a Java program to sort the array elements.");
  
 
