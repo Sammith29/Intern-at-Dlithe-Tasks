@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-//Date-03-05-2024-Day-32
+//Date-03-05-2024-Day-33
 //Task1: Implement Single Inheritance.
 
 class Singleinheritance {
   public static void main(String[] args) {
     
-    System.otu.println("Date-03-05-2024-Day-32");
+    System.otu.println("Date-03-05-2024-Day-33");
     System.otu.println("Task1: Implement Single Inheritance.");
 
     Scanner sc = new Scanner(System.in);
