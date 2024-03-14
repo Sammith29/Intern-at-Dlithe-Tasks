@@ -1,0 +1,71 @@
+import java.util.Scanner;
+
+//Date-03-05-2024-Day-33
+//Task1: Implement Single Inheritance.
+
+class Singleinheritance {
+  public static void main(String[] args) {
+    
+    System.otu.println("Date-03-05-2024-Day-33");
+    System.otu.println("Task1: Implement Single Inheritance.");
+
+    Scanner sc = new Scanner(System.in);
+    AccessDB student = new AccessDB("Hoyio", 4, 23, "Astronomy", "hoyioplanet@sun.com");
+    student.display();
+    System.out.println("Enter student name:");
+    String name = sc.nextLine(); 
+    System.out.println("Enter student ID:");
+    int id = sc.nextInt();
+    System.out.println("Enter age:");
+    int age = sc.nextInt();
+    System.out.println("Enter department:");
+    String dpt = sc.next();
+    System.out.println("Enter eom:");
+    String email = sc.next();
+     System.out.println(" ");
+    student.display();
+     System.out.println(" ");
+    student.inline();
+    System.out.println(" ");
+    AccessDB student2 = new AccessDB(name,id,age,dpt,email);
+    student2.display();
+     System.out.println(" ");
+    student2.inline();
+
+  }
+}
+
+class Studentdb {
+  String studentname;;
+  int studentid;
+  int age;
+  String dpt;
+  String eom;
+  static String college = "S34LS";
+
+  Studentdb(String name, int id, int age, String dpt, String email) {
+    this.studentname = name;
+    this.studentid = id;
+    this.age = age;
+    this.dpt = dpt;
+    this.eom = email;
+  }
+}
+
+class AccessDB extends Studentdb {
+  public AccessDB(String name, int id, int age, String dpt, String email) {
+    super(name, id, age, dpt, email);
+  }
+  public void display() {
+    System.out.println("Student Name: " + this.studentname);
+    System.out.println("Student ID: " + this.studentid);
+    System.out.println("Age: " + this.age);
+    System.out.println("Department: " + this.dpt);
+    System.out.println("eom: " + this.eom);
+    System.out.println("College: " + Studentdb.college);
+  }
+  public void inline(){
+  System.out.println(this.studentname+ " "+this.studentid+" " + this.age+ " " +this.dpt+ " " +this.eom+" "+Studentdb.college);
+  }
+}
+
