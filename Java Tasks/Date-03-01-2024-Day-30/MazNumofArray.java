@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
- //Task-2-Date-02-29-2024-Day-29.docx
+ //Task-2-Date-03-01-2024-Day-30
     //Task 2: Write a Java program to find the maximum value of an array.
 
 
@@ -10,7 +10,7 @@ public class MazNumofArray {
   public static void main(String[] args) {
 
         //Printintg the Details
-System.out.println("Task-2-Date-02-29-2024-Day-29.docx");
+System.out.println("Task-2-Date-03-01-2024-Day-30");
 System.out.println("Task 2: Write a Java program to find the maximum value of an array.");
 
 

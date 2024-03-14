@@ -5,7 +5,7 @@ public class ConcattwoString {
   public static void main(String[] args) {
   
   //Printintg the Details
-System.out.println("Task-7-Date-02-29-2024-Day-29.docx");
+System.out.println("Task-7-Date-03-01-2024-Day-30");
 System.out.println("Task 7: Write a Java program to print the reverse of a given string. ");
 
     Scanner sc = new Scanner(System.in);
