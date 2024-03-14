@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- //Task-4-Date-03-01-2024-Day-30
+ //Task-4-Date-02-29-2024-Day-30
  //Task 4: Write a Java program to print prime numbers from the array.
 
 
@@ -9,7 +9,7 @@ public class PrimeNumFromArray {
   public static void main(String[] args) {
    
       //Printintg the Details
-      System.out.println("Task-4-Date-03-01-2024-Day-30");
+      System.out.println("Task-4-Date-02-29-2024-Day-30");
       System.out.println("Task 4: Write a Java program to print prime numbers from the array.");
       
       Scanner sc = new Scanner(System.in);

@@ -1,13 +1,13 @@
 
 public class AddOfTwoMatrix {
 
-   //Task-6-Date-03-01-2024-Day-30
+   //Task-6-Date-02-29-2024-Day-30
  //Task 6: Write a Java program to Perform addition of two matrices. 
 
 
   public static void main(String[] args) {
 //Printintg the Details
-System.out.println("Task-6-Date-03-01-2024-Day-30");
+System.out.println("Task-6-Date-02-29-2024-Day-30");
 System.out.println("Task 6: Write a Java program to Perform addition of two matrices. ");
 
 

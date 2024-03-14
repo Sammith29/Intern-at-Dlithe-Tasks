@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-//Date-03-02-2024-Day-31
+//Date-02-01-2024-Day-31
 //Write a java program  to create an employee class,
 // store the data of an employee then print the data of the employee from the same
 public class Empdb {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
  
-    System.out.println("Date-03-02-2024-Day-31"); 
+    System.out.println("Date-02-01-2024-Day-31"); 
     System.out.println("Write a java program  to create an employee class, store the data of an employee then print the data of the employee from the same"); 
     // Write a java program  to create an employee class, store the data of an employee then print
     // the data of the employee from the same

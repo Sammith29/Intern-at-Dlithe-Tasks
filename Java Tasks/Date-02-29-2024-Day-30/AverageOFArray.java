@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- //Task-5-Date-03-01-2024-Day-30
+ //Task-5-Date-02-29-2024-Day-30
  //Task 5: Write a Java program to find the average of the array.
 
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class AverageOFArray {
   public static void main(String[] args) {
 //Printintg the Details
-System.out.println("Task-5-Date-03-01-2024-Day-30");
+System.out.println("Task-5-Date-02-29-2024-Day-30");
 System.out.println("Task 5: Write a Java program to find the average of the array.");
 
 

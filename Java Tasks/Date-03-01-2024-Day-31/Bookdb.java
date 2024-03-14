@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Date-03-02-2024-Day-31
+//Date-03-01-2024-Day-31
 //2 Write a java program Write a java program to create a Book class, 
 //store the data of the book then print the data of the book from the same class.
 public class Bookdb {

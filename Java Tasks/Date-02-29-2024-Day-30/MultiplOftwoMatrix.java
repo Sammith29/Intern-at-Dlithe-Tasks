@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- //Task-7-Date-03-01-2024-Day-30
+ //Task-7-Date-02-29-2024-Day-30
  //Task 7: Write a Java program to perform multiplication of two matrices.
 
 
@@ -10,7 +10,7 @@ public class MultiplOftwoMatrix {
   public static void main(String[] args) {
 
       //Printintg the Details
-      System.out.println("Task-7-Date-03-01-2024-Day-30");
+      System.out.println("Task-7-Date-02-29-2024-Day-30");
       System.out.println("Task 7: Write a Java program to perform multiplication of two matrices.");
       
 
